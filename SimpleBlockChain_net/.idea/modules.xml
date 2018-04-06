@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SimpleBlockChain.iml" filepath="$PROJECT_DIR$/.idea/SimpleBlockChain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flaskTesk.iml" filepath="$PROJECT_DIR$/.idea/flaskTesk.iml" />
     </modules>
   </component>
 </project>
